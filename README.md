@@ -1,7 +1,7 @@
 # Virtual Tour 360 Gedung Teaching Lab IPB
 Project akhir matkul Grafik Komputer dan Visualisasi 2025. Project yang membuat virtual tour 360 selayaknya
 google maps menggunakan Unity Engine versi `2022.3.61f1`. Virtual tour pada project ini difokuskan pada gedung Teaching Lab IPB.
-Virtual Tour memiliki berbagai macam fungsionalitas seperti navigasi antar area, informasi ruangan, dan juga ambient suara.
+Virtual Tour ini memiliki berbagai macam fungsionalitas seperti navigasi antar area, informasi ruangan, dan juga ambient suara.
 
 
 ## Hasil
